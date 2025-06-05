@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Jayam Shah!
 
-[![Avatar](https://avatars.githubusercontent.com/u/your-github-user-id?v=4)](https://avatars.githubusercontent.com/u/210752345?s=400&u=f1a45428ee5045b7ea20245bf30ceace0dfb790b&v=4) <!-- Replace with your actual avatar link if you want -->
 
 ## 🚀 About Me
 
